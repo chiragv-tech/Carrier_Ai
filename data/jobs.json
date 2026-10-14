@@ -1,0 +1,47 @@
+[
+  {
+    "id": "python-dev-001",
+    "title": "Python Developer",
+    "company": "Northstar Digital (Sample)",
+    "level": "Entry-level",
+    "location": "Remote / India",
+    "description": "Build and maintain Python applications and REST APIs. Write readable, tested code, debug issues, work with SQL databases, Git, and common software development practices. Familiarity with Flask or FastAPI and automated testing is helpful.",
+    "skills": ["Python", "SQL", "Git", "REST API", "Flask", "FastAPI", "Testing", "OOP", "Debugging"]
+  },
+  {
+    "id": "data-analyst-001",
+    "title": "Data Analyst",
+    "company": "BrightPath Analytics (Sample)",
+    "level": "Entry-level",
+    "location": "Hybrid / India",
+    "description": "Analyze business datasets, clean data, build dashboards, and communicate findings to stakeholders. Use Python, pandas, SQL, Excel, statistics, and data visualization tools such as Plotly or Power BI.",
+    "skills": ["Python", "Pandas", "SQL", "Excel", "Statistics", "Data Visualization", "Plotly", "Power BI", "Data Cleaning"]
+  },
+  {
+    "id": "ml-engineer-001",
+    "title": "Machine Learning Engineer Intern",
+    "company": "ModelWorks Lab (Sample)",
+    "level": "Internship",
+    "location": "Remote / India",
+    "description": "Prepare datasets, train and evaluate machine learning models, create reproducible experiments, and document model behavior. Requires Python, NumPy, pandas, scikit-learn, statistics, feature engineering, model evaluation, and Git. Deep learning familiarity is useful.",
+    "skills": ["Python", "NumPy", "Pandas", "Scikit-learn", "Statistics", "Feature Engineering", "Model Evaluation", "Git", "Machine Learning", "Deep Learning"]
+  },
+  {
+    "id": "web-dev-001",
+    "title": "Web Developer",
+    "company": "PixelCraft Studio (Sample)",
+    "level": "Entry-level",
+    "location": "On-site / India",
+    "description": "Develop accessible, responsive web interfaces and connect them to backend services. Use HTML, CSS, JavaScript, Git, API integration, responsive design, and debugging. React and basic testing are beneficial.",
+    "skills": ["HTML", "CSS", "JavaScript", "Git", "REST API", "Responsive Design", "React", "Testing", "Accessibility"]
+  },
+  {
+    "id": "software-eng-001",
+    "title": "Software Engineer",
+    "company": "Evergreen Systems (Sample)",
+    "level": "Graduate role",
+    "location": "Hybrid / India",
+    "description": "Design, implement, test, and maintain software features. Apply data structures, algorithms, object-oriented programming, Python or Java, SQL, Git, debugging, code reviews, and software design fundamentals.",
+    "skills": ["Python", "Java", "Data Structures", "Algorithms", "OOP", "SQL", "Git", "Testing", "Debugging", "Software Design"]
+  }
+]
